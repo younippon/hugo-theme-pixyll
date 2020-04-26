@@ -1,3 +1,6 @@
+[work]
+other = "Work"
+
 [about]
 other = "О нас"
 
@@ -6,6 +9,9 @@ other = "Контакты"
 
 [tags]
 other = "Теги"
+
+[news]
+other = "News"
 
 [search]
 other = "Поиск"

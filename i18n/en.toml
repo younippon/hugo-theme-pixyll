@@ -1,3 +1,6 @@
+[work]
+other = "Work"
+
 [about]
 other = "About"
 
@@ -6,6 +9,9 @@ other = "Contact"
 
 [tags]
 other = "Tags"
+
+[news]
+other = "News"
 
 [search]
 other = "Search"
